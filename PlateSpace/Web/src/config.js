@@ -1,4 +1,4 @@
-module.exports.STITCH_APP_ID = '<YOUR_STITCH_APP_ID>';
+module.exports.STITCH_APP_ID = 'platespace-rowcc';
 module.exports.MONGODB_SERVICE_NAME = 'mongodb-atlas';
 module.exports.DB_NAME = 'platespace';
 module.exports.STITCH_ENDPOINT= 'https://stitch.mongodb.com';
